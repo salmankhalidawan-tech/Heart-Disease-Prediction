@@ -22,8 +22,8 @@ is at risk of heart disease based on medical attributes.
 1. **Data Loading** — Loaded real clinical dataset into Pandas DataFrame
 2. **Data Cleaning** — Handled missing values and irrelevant features
 3. **EDA** — Explored patterns and visualized key relationships in the data
-4. **Model Training** — Trained Logistic Regression & Decision Tree classifiers
-5. **Evaluation** — Compared model accuracy and performance metrics
+4. **Model Training** — Trained Logistic Regression, Random Forrest and Support Vector Machine
+6. **Evaluation** — Compared model accuracy and performance metrics
 
 ---
 
