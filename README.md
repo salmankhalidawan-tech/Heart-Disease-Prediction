@@ -13,7 +13,7 @@ is at risk of heart disease based on medical attributes.
 
 ## 🛠️ Tech Stack
 - **Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Tkinter
 - **Environment:** Jupyter Notebook
 
 ---
@@ -24,7 +24,7 @@ is at risk of heart disease based on medical attributes.
 3. **EDA** — Explored patterns and visualized key relationships in the data
 4. **Model Training** — Trained Logistic Regression, Random Forrest and Support Vector Machine
 6. **Evaluation** — Compared model accuracy and performance metrics
-
+7. **GUI Application** — Built a desktop interface to input patient data and get real-time heart disease risk prediction
 ---
 
 ## 📊 Key Findings
